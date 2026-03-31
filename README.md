@@ -155,6 +155,10 @@ Cross-validation is a technique to evaluate predictive models by partitioning th
 * Correlation is when the change in one item may result in the change in the another item, while covariance is when two items vary together (joint variability)
 * Covariance is nothing but a measure of correlation. On the contrary, correlation refers to the scaled form of covariance
 * Range: correlation is between -1 and +1, while covariance lies between negative infinity and infinity.
+* **Types of Correlation:**
+  * **Positive Correlation** – When two variables move in the same direction (r > 0). Example: Height and weight
+  * **Negative Correlation** – When two variables move in opposite directions (r < 0). Example: Speed and travel time
+  * **Zero Correlation** – No linear relationship between variables (r = 0)
 
 
 [back to top](#data-science-question-answer)
